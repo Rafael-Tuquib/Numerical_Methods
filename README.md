@@ -14,9 +14,5 @@ A Java/MATLAB application for solving numerical methods problems.
 - Java Swing
 - MATLAB App Designer
 
-## Screenshots
-
-![UI](screenshots/ui.png)
-
 ## Author
 Rafael Tuquib
